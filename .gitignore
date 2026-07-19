@@ -1,0 +1,30 @@
+# Local agent workspace
+.scratch/
+
+# IDE and OS
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Java build output
+**/target/
+*.log
+
+# Frontend temporary output
+node_modules/
+dist/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.local.yml
+*.local.yaml
+
+# Raw upstream archives and extracted document media stay local
+assets/backup/**
+!assets/backup/README.md
+
+# Original course documents stay local
+upstream-docs/

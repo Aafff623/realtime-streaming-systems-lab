@@ -1,0 +1,14 @@
+[
+  {
+    "path": "web/css/fonts/element-icons.woff",
+    "source": "https://unpkg.com/element-ui/lib/theme-chalk/fonts/element-icons.woff",
+    "bytes": 28200,
+    "sha256": "AB40A58972BE2CEAB32E7E35DAB3131B959AAE63835D7BDA1A79AE51F9A73C17"
+  },
+  {
+    "path": "web/css/fonts/element-icons.ttf",
+    "source": "https://unpkg.com/element-ui/lib/theme-chalk/fonts/element-icons.ttf",
+    "bytes": 55956,
+    "sha256": "A30F5B3BA6A48822EAE041E0CA5412A289125E4BA661D047DAE565AC43B4A6B2"
+  }
+]

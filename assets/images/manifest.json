@@ -1,0 +1,152 @@
+﻿[
+    {
+        "path":  "assets/images/avatar/sample-anchor.jpeg",
+        "kind":  "avatar",
+        "source":  "web/img/anchor.jpeg",
+        "note":  "Upstream sample anchor avatar",
+        "bytes":  16985,
+        "sha256":  "569B926D24348A7F1B1A69C0FDFC3405B2C32CC4F1861BAFB8C6B361874E9D62"
+    },
+    {
+        "path":  "assets/images/avatar/default-user.png",
+        "kind":  "avatar",
+        "source":  "web/img/living_default_user.png",
+        "note":  "Upstream default user avatar",
+        "bytes":  7833,
+        "sha256":  "CE8DCE1B868ADEA83731639839FEEB00ED5DDAD610CA7C22879B7733161C95D5"
+    },
+    {
+        "path":  "assets/images/icon/qiyu-logo.png",
+        "kind":  "icon",
+        "source":  "web/img/logo.png",
+        "note":  "Transparent Qiyu logo",
+        "bytes":  12406,
+        "sha256":  "60675CCA8762BE623EED2441DD5682EA1D98F7C232BD2E1004E6DA24600AC4BD"
+    },
+    {
+        "path":  "assets/images/icon/qiyu-logo-square.jpg",
+        "kind":  "icon",
+        "source":  "web/img/livingroom.jpg",
+        "note":  "Square source logo used by Web pages",
+        "bytes":  42334,
+        "sha256":  "4E4F9BB6CFBBF5CDFFE464798CFF240931BD65FE94E22067605CFB4A2C53BDE9"
+    },
+    {
+        "path":  "assets/images/icon/live-badge.jpg",
+        "kind":  "icon",
+        "source":  "web/img/living.jpg",
+        "note":  "Live status badge",
+        "bytes":  5411,
+        "sha256":  "17E1FCBD512626807729AE92D9C68ACB966DF22AB8B38C7FAB775C9BDF649101"
+    },
+    {
+        "path":  "assets/images/icon/payment-wechat.jpg",
+        "kind":  "icon",
+        "source":  "web/img/wx.jpg",
+        "note":  "Wechat payment sample icon",
+        "bytes":  6517,
+        "sha256":  "5EDEAB343118163D48C3306AC3135AC32EF41CE74233008A55BE7CC58CE85379"
+    },
+    {
+        "path":  "assets/images/icon/payment-alipay.jpg",
+        "kind":  "icon",
+        "source":  "web/img/zfb.jpg",
+        "note":  "Alipay payment sample icon",
+        "bytes":  13118,
+        "sha256":  "544BD62A5C9A16701DC3B6BFF378904D10170E681FA206124812560896FC1A3F"
+    },
+    {
+        "path":  "assets/images/knowledge/im-router-flow.png",
+        "kind":  "knowledge",
+        "source":  "assets/backup/docx-media/im/src-040-image-01.png",
+        "note":  "IM core, MQ, message provider and router flow",
+        "bytes":  28767,
+        "sha256":  "4ED96FE4DA69EE9A7FFE2EF467390D22E368FE718E6662C5596A3DFB7ABEEBFB"
+    },
+    {
+        "path":  "assets/images/knowledge/gift-pk-flow.png",
+        "kind":  "knowledge",
+        "source":  "assets/backup/docx-media/live/src-004-image-02.png",
+        "note":  "Gift and PK event flow",
+        "bytes":  100085,
+        "sha256":  "C0F2D0F305FD8E8599EBF09B245CDABAB005025DB20FA6572501CB906A6D97C4"
+    },
+    {
+        "path":  "assets/images/knowledge/gateway-auth-flow.png",
+        "kind":  "knowledge",
+        "source":  "assets/backup/docx-media/account/src-030-image-01.png",
+        "note":  "Gateway whitelist and token validation flow",
+        "bytes":  35434,
+        "sha256":  "61E761482B30B60920922E74FA07A2DE606D499985B80C6360DB5100D17342F2"
+    },
+    {
+        "path":  "assets/images/readme/preview-shell.png",
+        "kind":  "readme-preview",
+        "source":  "Headless Edge capture of web/html/living_room.html?roomId=1",
+        "note":  "Static live-room shell without backend data",
+        "bytes":  42474,
+        "sha256":  "EAF8B858971B74EDC26932A851E63DAC811D3874D8CA9370EF21D6078F119108",
+        "width":  1440,
+        "height":  1000
+    },
+    {
+        "path":  "assets/images/readme/banner.png",
+        "kind":  "readme-illustration",
+        "source":  "Grok Build CLI using readme-image-prompts.md",
+        "note":  "README header illustration",
+        "bytes":  298150,
+        "sha256":  "00BA407FF7448A1A7E90117FE4F3AFBB3131B31087212B5A276C491500B6FAB8",
+        "width":  1280,
+        "height":  576
+    },
+    {
+        "path":  "assets/images/readme/features.png",
+        "kind":  "readme-illustration",
+        "source":  "Grok Build CLI using readme-image-prompts.md",
+        "note":  "Feature map",
+        "bytes":  715603,
+        "sha256":  "54F30A9EBE58504617796261340EA245C68B483DAA7C20579CF105963D4079F1",
+        "width":  1280,
+        "height":  720
+    },
+    {
+        "path":  "assets/images/readme/architecture.png",
+        "kind":  "readme-illustration",
+        "source":  "Grok Build CLI using readme-image-prompts.md",
+        "note":  "System architecture topology",
+        "bytes":  441841,
+        "sha256":  "F0E312B5E652031A01E0174BEE631D98E6610701BBEA702F53BD18286D84E1CC",
+        "width":  1280,
+        "height":  720
+    },
+    {
+        "path":  "assets/images/readme/tech-stack.png",
+        "kind":  "readme-illustration",
+        "source":  "Grok Build CLI using readme-image-prompts.md",
+        "note":  "Technology stack layers",
+        "bytes":  504079,
+        "sha256":  "F3040C9DC4DBDFBCC757281EE6B259EAD67ACB6F3201001017386A2EC1CAE272",
+        "width":  1280,
+        "height":  720
+    },
+    {
+        "path":  "assets/images/readme/workflow.png",
+        "kind":  "readme-illustration",
+        "source":  "Grok Build CLI using readme-image-prompts.md",
+        "note":  "Gift delivery workflow",
+        "bytes":  496194,
+        "sha256":  "E17FFD615F481E6D4D21032E8444C1D6C0AC63E805853E9BB9C1D08BAE7B0564",
+        "width":  1280,
+        "height":  720
+    },
+    {
+        "path":  "assets/images/readme/structure.png",
+        "kind":  "readme-illustration",
+        "source":  "Grok Build CLI using readme-image-prompts.md",
+        "note":  "Repository structure",
+        "bytes":  255411,
+        "sha256":  "658DFAF169D6C37470F4BACD520E5E5D26E692FADBB7558DB34AACBBCE7D37BE",
+        "width":  1280,
+        "height":  720
+    }
+]
